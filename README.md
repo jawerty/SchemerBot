@@ -1,4 +1,4 @@
-# 10x-Senior-Engineer
+# SchemerBot
 A Mistrel Run LLM agent that starts Passive Income Streams for you
 
 Example usage
