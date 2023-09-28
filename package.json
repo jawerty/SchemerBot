@@ -1,0 +1,14 @@
+{
+  "name": "schemerbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "schemer-bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^21.3.5"
+  }
+}
